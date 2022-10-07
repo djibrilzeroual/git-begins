@@ -1,0 +1,4 @@
+git clone "lien"
+git add "fichier"
+git commit -m "commentaire" "fichier"
+git push -u origin main
